@@ -72,15 +72,27 @@ h2{
 .footer
 {
     background-color: #47d1d1;
-    height: 100px;
+    height: 400px;
     font-family: Dosis;
+    font-size: 20px;
     
 }
 .address{
     margin-left: 100px;
-    margin-top: 5px;
+    margin-top: 1px;
 }
 .about-us{
-    margin-left: 300px;
-    margin-top: 5px;
+    margin-left: 100px;
+    margin-top: 1px;
+    
+}
+.social-media
+{
+    margin-left: 100px;
+
+}
+.icon{
+    width: 30px;
+    height: 28px;
+    margin-left: 100px;
 }
